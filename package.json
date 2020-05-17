@@ -6,6 +6,8 @@
     "engines": {
         "vscode": "^1.45.0"
     },
+    "publisher": "hogashi",
+    "repository": "https://github.com/hogashi/vscode-syntax-highlight-crontab",
     "categories": [
         "Programming Languages"
     ],
