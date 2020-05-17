@@ -1,0 +1,25 @@
+{
+    "name": "crontab-syntax-highlight",
+    "displayName": "Crontab Syntax Highlight",
+    "description": "Crontab syntax highlight from https://github.com/textmate/cron.tmbundle",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "crontab",
+            "aliases": ["Crontab", "crontab"],
+            "extensions": [".crontab"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "crontab",
+            "scopeName": "text.crontab",
+            "path": "./syntaxes/crontab.tmLanguage"
+        }]
+    }
+}
