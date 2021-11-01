@@ -3,6 +3,9 @@
   "displayName": "Crontab Syntax Highlight",
   "description": "Crontab syntax highlight from https://github.com/textmate/cron.tmbundle",
   "version": "0.0.2",
+  "scripts": {
+    "build": "vsce package && echo '---> go https://marketplace.visualstudio.com/manage/publishers/ and upload .vsix file'"
+  },
   "engines": {
     "vscode": "^1.45.0"
   },
