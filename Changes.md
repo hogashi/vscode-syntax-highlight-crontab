@@ -2,7 +2,7 @@
 
 ## 0.0.2
 
-- fix language configuration (thanks to [@ksteckert](https://github.com/ksteckert)) [#1](https://github.com/hogashi/vscode-syntax-highlight-crontab/pull/1)
+- fix comment symbol (thanks to [@ksteckert](https://github.com/ksteckert)) [#1](https://github.com/hogashi/vscode-syntax-highlight-crontab/pull/1)
 
 ## 0.0.1
 
