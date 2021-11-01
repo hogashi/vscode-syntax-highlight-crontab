@@ -2,7 +2,7 @@
   "name": "crontab-syntax-highlight",
   "displayName": "Crontab Syntax Highlight",
   "description": "Crontab syntax highlight from https://github.com/textmate/cron.tmbundle",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.45.0"
   },
